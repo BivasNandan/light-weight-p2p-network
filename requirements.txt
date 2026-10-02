@@ -1,0 +1,4 @@
+Python version: 3.9+
+No third-party dependencies required.
+
+all inbuilt packages were used to build the network.
